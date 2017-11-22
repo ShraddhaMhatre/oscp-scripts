@@ -5,5 +5,3 @@ This repository contains scripts that have been found useful when executing offe
 * Reconaissance // Open-source Intelligence (OSINT) // Information Gathering
 * Exploitation
 * Post Exploitation
-
-> homecrew
