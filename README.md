@@ -2,7 +2,7 @@
 
 This repository contains scripts that have been found useful when executing offensive security engagements.
 
-* Reconaissance // Open-source Intelligence (OSINT) // Information Gathering
-* Target Enumeration
+* Passive Reconaissance // Open-source Intelligence (OSINT) // Information Gathering
+* Active Target Enumeration
 * Exploitation
 * Post Exploitation
