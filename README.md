@@ -1,4 +1,4 @@
-# ./scripts      
+# ./scripts pertinent to OSCP     
 
 This repository contains scripts that have been found useful when executing offensive security engagements.
 
